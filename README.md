@@ -94,6 +94,7 @@ A financial institution needed deeper insights into client engagement and lendin
 ## 👩‍💻 Author
 
 **Divya Idupulapati**
+
 📍 San Marcos, TX
 
 📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)
