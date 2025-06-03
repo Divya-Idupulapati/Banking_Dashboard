@@ -95,7 +95,9 @@ A financial institution needed deeper insights into client engagement and lendin
 
 **Divya Idupulapati**
 📍 San Marcos, TX
+
 📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)
+
 🔗 [www.linkedin.com/in/divyaidupulapati](https://www.linkedin.com/in/divyaidupulapati)
 
 ---
