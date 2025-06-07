@@ -1,22 +1,22 @@
-# 🏦 Banking Risk & Client Analytics Dashboard
+# Banking Risk & Client Analytics Dashboard
 
 **End-to-End Risk & Client Behavior Analysis** | SQL • Power BI • Risk Analytics • BI Reporting
 
 ---
 
-## 🔍 Project Summary
+## Project Summary
 
 Designed and developed a comprehensive banking dashboard solution to analyze client behavior, lending risks, and financial performance metrics using **Power BI**. This project simulates how banks assess risk before approving loans and gain insights from various client banking activities. Demonstrates skills in **data cleaning, DAX calculation, KPI development, and dashboard storytelling** – key capabilities for any data analyst in the **banking and financial services** domain.
 
 ---
 
-## 💼 Business Problem
+## Business Problem
 
 A financial institution needed deeper insights into client engagement and lending risks to make informed loan approval decisions. With multiple datasets containing fragmented client details, there was a lack of cohesive visualization and actionable insights to support risk mitigation and improve client services.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Identify **client engagement trends** and risk exposure
 * Understand **loan distribution** across client segments and banks
@@ -26,7 +26,7 @@ A financial institution needed deeper insights into client engagement and lendin
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool / Technology | Purpose                                                               |
 | ----------------- | --------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ A financial institution needed deeper insights into client engagement and lendin
 
 ---
 
-## 🔄 End-to-End Workflow
+## End-to-End Workflow
 
 1. **Data Acquisition**
 
@@ -62,7 +62,7 @@ A financial institution needed deeper insights into client engagement and lendin
 
 ---
 
-## 📈 Key Business Insights
+##  Key Business Insights
 
 * **Private banks** have the **highest number of clients**, indicating stronger client engagement strategies.
 * Clients with **higher estimated income** generally hold more diversified account portfolios.
@@ -72,7 +72,7 @@ A financial institution needed deeper insights into client engagement and lendin
 
 ---
 
-## 📌 Strategic Recommendations
+## Strategic Recommendations
 
 * Focus on **client acquisition in underperforming bank types** to balance client load
 * Use **engagement length metrics** to retain long-term clients with better credit scores
@@ -82,7 +82,7 @@ A financial institution needed deeper insights into client engagement and lendin
 
 ---
 
-## 💥 Business Impact
+##  Business Impact
 
 * Built an **interactive dashboard** to assist risk teams in evaluating applicants' profiles
 * Enabled **faster and more confident loan approvals** with better visibility
